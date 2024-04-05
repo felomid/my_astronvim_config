@@ -1,3 +1,5 @@
+> Current Repo is deprecated due to the Astronvim v4 update on April 1, 2024.
+> Such a template has been unavailable since then.
 # AstroNvim User Configuration Example
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
